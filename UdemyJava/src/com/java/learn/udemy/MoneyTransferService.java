@@ -1,4 +1,4 @@
-package com.java.learn.udemy;
+package com.mplatform.learn;
 
 public class MoneyTransferService {
 
